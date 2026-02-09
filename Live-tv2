@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRJFbBbf/ICC-Mens-T20-World-Cup-2026-ics.jpg",T 20 
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Enc1-1series/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gMxhVcrT/ATN-NEWS-HD.png" group-title="Bangladesh",ATN NEWS HD
