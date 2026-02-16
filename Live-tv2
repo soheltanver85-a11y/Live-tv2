@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRJFbBbf/ICC-Mens-T20-World-Cup-2026-ics.jpg",T 20 
-http://172.19.178.29:18190/AO-E01-02/index.fmp4.m3u8?token=bc7e188d111f62112d21bd223fab05fff2444e95-d7902e18b20dc2530bdd3cf683d28efd-1771177800-1771166700
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771257824/ei/gOuSaav0AZn_4-EPhIfb6A0/ip/202.134.11.236/id/XnbQ0F5Wbjo.1/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-gvcp5mp5u5-q5j6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/bui/AVNa5-wefOaVxrUAsEm-J08O6HlnnWSrKG7jFCRR8uO3xTIJWOF8uLjXNWZ84ruqswruD0VFFfcHCa6q/spc/6dlaFFSwmIEi3uRbLeV3ZVfSrrA3TE9DzgYsHqaMCCbQ8MluF65oSHhgnmg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/540000/met/1771236224,/mh/LR/mm/44/mn/sn-gvcp5mp5u5-q5j6/ms/lva/mv/m/mvi/5/pl/24/rms/lva,lva/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51552689,51565116,51565681,51580968,51772949/mt/1771235803/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AJEij0EwRAIgRqTuBex04TgDSpqzeBlYyd7AgnF-ob9F2dxpPXm8VuQCIG9IIZgG1pLJjNT_HHApAhCr3qErOiE1cEpXsxWLXHSD/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhALXVs46eo6_t-R2pnMStomsT_Lz2xqN73xON20M8Qg85AiAeTSng7CVaVvJIxqPIGysJd0HcJ7uk88Ja-3tRGvwFww%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 group-title="ICC T20 WORLD CUP 2026" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",ICC T20 WORLD CUP 2026 BDIX 1
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
