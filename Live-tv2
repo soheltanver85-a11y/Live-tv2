@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRJFbBbf/ICC-Mens-T20-World-Cup-2026-ics.jpg",T 20 
-http://172.19.178.29:18190/CD-E02-01/tracks-a1/index.fmp4.m3u8?token=d121c6bafc7ab0914061606c27c89080feed65c0-14560647f6748bd46891b2d8a67b1682-1771349767-1771338667
+http://103.144.89.251:8082/STAR.SPORTS1.HD/tracks-v1a1/mono.m3u8?token=a2a64fdebdc2e01bf3bae5628175eadb33315b18-b4b59855ebc1b80bcdb128d4b2753b2b-1771350070-1771339270
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pqy3Gk57/images.jpg",T Sports
 https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8
