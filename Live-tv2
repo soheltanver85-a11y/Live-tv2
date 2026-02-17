@@ -8,7 +8,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771257824/ei/
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pqy3Gk57/images.jpg",T Sports
-https://amitomar.hoichoi.pro/bdixbd.net/tracks-a1/index.fmp4.m3u8
+http://103.144.89.251:8082/T-SPORTS-HD/tracks-a1/mono.m3u8?token=bb9ad7284b06c578478984ed26bb5221acc50e74-fd935ee5fc514ce1a3fece4c2d411cdf-1771344100-1771333300
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gMxhVcrT/ATN-NEWS-HD.png" group-title="Bangladesh",ATN NEWS HD
