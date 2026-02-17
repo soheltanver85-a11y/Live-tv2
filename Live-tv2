@@ -2,10 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRJFbBbf/ICC-Mens-T20-World-Cup-2026-ics.jpg",T 20 
-https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8
-
-#EXTINF:-1 group-title="ICC T20 WORLD CUP 2026" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",ICC T20 WORLD CUP 2026 BDIX 1
-http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+https://v5on.site/api/playlist.php?id=13141
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pqy3Gk57/images.jpg",T Sports
 https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8
