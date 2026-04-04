@@ -6,6 +6,9 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pqy3Gk57/images.jpg",T Sports
 https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cLDsryf1/Animal-Planet-HD-svg.png" group-title="all",Animal Planet HD
+https://ottking.top/toffe/animal_planet_hd.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/fYCbByKT/SOMOY-TV-HD.png" group-title="Bangladesh",SOMOY TV HD
 #http://116.204.149.16/somoytv/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
