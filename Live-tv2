@@ -1,0 +1,79 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FzbDY1QB/2026-IPL-logo.jpg" group-title="Sports",IPL
+https://Genz2.zibobdixserver.top/101/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/c43q5pgx/images.jpg" group-title="sports",Star sports
+https://tv.ottking.top/webottking/linkchor/166.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fRwGZQhV/images.jpg" group-title="Sports",ptv sports
+https://tv.ottking.top/webottking/linkchor/90.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fWX7jGc5/images-(1).png",T Sports 
+https://tv.ottking.top/webottking/linkchor/14.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cLDsryf1/Animal-Planet-HD-svg.png" group-title="all",Animal Planet HD
+https://ottking.top/toffe/animal_planet_hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nhxkMNnZ/images.png" group-title="all", Discovery
+https://ottking.top/toffe/discovery_hd.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/gbJBXL6V/JAMUNA-TV.png" group-title="Bangladesh",JAMUNA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/fYCbByKT/SOMOY-TV-HD.png" group-title="Bangladesh",SOMOY TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mVvq2Mpr/INDEPENDENT-TV.png" group-title="Bangladesh",INDEPENDENT TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gMxhVcrT/ATN-NEWS-HD.png" group-title="Bangladesh",ATN NEWS HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/LzVX7DTt/CHANNEL-I-HD.png" group-title="Bangladesh",CHANNEL I HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtLSNbmW/EKUSHEY-TELEVISION-HD.png" group-title="Bangladesh",EKUSHEY TV HD
+#https://ekusheyserver.com/etvlivesn.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/rGFdn8DF/NTV-HD.png" group-title="Bangladesh",NTV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/rRPcs9QG/RTV-HD.png" group-title="Bangladesh",RTV HD
+http://116.204.149.16/rtvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/bRWPFmnc/BOISHAKHI-TV-HD.png" group-title="Bangladesh",BOISHAKHI TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/q31ZdLqP/BANGLAVISION-HD.png" group-title="Bangladesh",BANGLA VISION HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/VWjHNn5Y/MYTV-HD.png" group-title="Bangladesh",MY TV HD
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
+http://116.204.149.16/mytv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/1JMhnC3G/MOHONA-TV-HD.png" group-title="Bangladesh",MOHONA TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/gMzdFFxC/CHANNEL-24-HD.png" group-title="Bangladesh",CHANNEL 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/HkwQ9v4/EKATTOR-TV-HD.png" group-title="Bangladesh",EKATTOR TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/9jF2B20/NEWS24-HD.png" group-title="Bangladesh",NEWS24 HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xdkhxRGc/images.webp" group-title="all",Sony Aath
+https://tv.ottking.top/webottking/linkchor/3.m3u8
